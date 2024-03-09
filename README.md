@@ -24,5 +24,8 @@
         ==> ye data ko secure rakhta hai 
 
 # GET ==> Get router means ham jo bhi web search per search karte hai wo sabhi data url per show karta hai 
-        ==> JIske karan ye jaya secure nhi hota hai         
+        ==> JIske karan ye jaya secure nhi hota hai  
+
+
+        ye data kaha se hai        
 
